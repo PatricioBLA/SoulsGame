@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"G:/Github/SoulGame/SoulGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"G:/Github/SoulGame/SoulGame/Content/Characters/Souls/M_Neutral_Run_Loop_B.uasset",
+				"G:/Github/SoulGame/SoulGame/Content/Characters/Souls/M_Neutral_Run_Loop_BL.uasset",
+				"G:/Github/SoulGame/SoulGame/Content/Characters/Souls/M_Neutral_Run_Loop_BR.uasset",
+				"G:/Github/SoulGame/SoulGame/Content/Characters/Souls/M_Neutral_Run_Loop_F.uasset",
+				"G:/Github/SoulGame/SoulGame/Content/Characters/Souls/M_Neutral_Run_Loop_FL.uasset",
+				"G:/Github/SoulGame/SoulGame/Content/Characters/Souls/M_Neutral_Run_Loop_FR.uasset",
+				"G:/Github/SoulGame/SoulGame/Content/Characters/Souls/M_Neutral_Run_Loop_LL.uasset",
+				"G:/Github/SoulGame/SoulGame/Content/Characters/Souls/M_Neutral_Run_Loop_LR.uasset",
+				"G:/Github/SoulGame/SoulGame/Content/Characters/Souls/M_Neutral_Run_Loop_RL.uasset",
+				"G:/Github/SoulGame/SoulGame/Content/Characters/Souls/M_Neutral_Stand_Idle_Loop.uasset"
+			]
+		}
+	]
+}
