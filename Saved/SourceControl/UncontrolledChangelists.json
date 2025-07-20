@@ -5,6 +5,24 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"G:/Github/SoulGame/SoulsGame/Content/Characters/Assassin/Mesh/SK_Assassin_Skeleton.uasset",
+				"G:/Github/SoulGame/SoulsGame/Content/Blueprint/BPC_Combat.uasset",
+				"G:/Github/SoulGame/SoulsGame/Content/Blueprint/BP_TargetLockWidget.uasset",
+				"G:/Github/SoulGame/SoulsGame/Content/Sound_Effect/audio.uasset",
+				"G:/Github/SoulGame/SoulsGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"G:/Github/SoulGame/SoulsGame/Content/Sound_Effect/Dark_Medieval_Dungeon_Song.uasset",
+				"G:/Github/SoulGame/SoulsGame/Content/Sound_Effect/Dungeon_level_song.uasset",
+				"G:/Github/SoulGame/SoulsGame/Content/Sound_Effect/Enemy_die.uasset",
+				"G:/Github/SoulGame/SoulsGame/Content/Sound_Effect/Enemy_die-1.uasset",
+				"G:/Github/SoulGame/SoulsGame/Content/Sound_Effect/Enemy_hit_1.uasset",
+				"G:/Github/SoulGame/SoulsGame/Content/Sound_Effect/Enemy_hit_2.uasset",
+				"G:/Github/SoulGame/SoulsGame/Content/Sound_Effect/Enemy_hit_3.uasset",
+				"G:/Github/SoulGame/SoulsGame/Content/Sound_Effect/Enemy_hit_4.uasset",
+				"G:/Github/SoulGame/SoulsGame/Content/Sound_Effect/Enemy_hit_5.uasset",
+				"G:/Github/SoulGame/SoulsGame/Content/Sound_Effect/Enemy_hit_6.uasset",
+				"G:/Github/SoulGame/SoulsGame/Content/Sound_Effect/Enemy_hit_7.uasset",
+				"G:/Github/SoulGame/SoulsGame/Content/Sound_Effect/Enemy_hit_8.uasset",
+				"G:/Github/SoulGame/SoulsGame/Content/Sound_Effect/Enemy_hit_damage_8_sounds.uasset",
 				"G:/Github/SoulGame/SoulsGame/Content/SwordTrailVFX/VFX/NS_Trail_01.uasset",
 				"G:/Github/SoulGame/SoulsGame/Content/SwordTrailVFX/VFX/NS_Trail_02.uasset",
 				"G:/Github/SoulGame/SoulsGame/Content/SwordTrailVFX/VFX/NS_Trail_03.uasset",
@@ -102,8 +120,7 @@
 				"G:/Github/SoulGame/SoulsGame/Content/SwordTrailVFX/Demo/Anims/A_Combo_6.uasset",
 				"G:/Github/SoulGame/SoulsGame/Content/SwordTrailVFX/Demo/M_Base.uasset",
 				"G:/Github/SoulGame/SoulsGame/Content/SwordTrailVFX/Demo/SM_Sword.uasset",
-				"G:/Github/SoulGame/SoulsGame/Content/SwordTrailVFX/Demo/BP_Man.uasset",
-				"G:/Github/SoulGame/SoulsGame/Content/Characters/Assassin/Mesh/SK_Assassin_Skeleton.uasset"
+				"G:/Github/SoulGame/SoulsGame/Content/SwordTrailVFX/Demo/BP_Man.uasset"
 			]
 		}
 	]
